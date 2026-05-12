@@ -5,7 +5,7 @@ Minimal and responsive QR Code Component built with HTML and CSS. This project f
 ## Demo
 
 ```bash
-https://your-demo-url.com
+https://qr-code-component.cristiancode.com
 ```
 
 
