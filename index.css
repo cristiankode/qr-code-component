@@ -78,7 +78,7 @@ h1 {
     text-align: center;
 }
 
-p {
+figcaption {
     font-size: var(--text-preset-2-size);
     line-height: var(--text-preset-2-line-height);
     letter-spacing: var(--text-preset-2-spacing);
