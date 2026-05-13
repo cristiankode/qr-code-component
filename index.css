@@ -81,6 +81,7 @@ body {
   line-height: var(--text-preset-2-line-height);
   letter-spacing: var(--text-preset-2-spacing);
   font-weight: var(--text-preset-2-weight);
+  margin: 0 var(--space-200);
   text-align: center;
   color: var(--slate-500);
 }
