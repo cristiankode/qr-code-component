@@ -64,6 +64,12 @@ body {
     box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
 }
 
+.card figure {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-300);
+}
+
 .card img {
     width: 100%;
     display: block;
@@ -75,8 +81,8 @@ body {
   line-height: var(--text-preset-2-line-height);
   letter-spacing: var(--text-preset-2-spacing);
   font-weight: var(--text-preset-2-weight);
-  padding: var(--space-200) 0;
   text-align: center;
+  color: var(--slate-500);
 }
 
 .card figcaption {
@@ -84,7 +90,7 @@ body {
   line-height: var(--text-preset-1-line-height);
   letter-spacing: var(--text-preset-1-spacing);
   font-weight: var(--text-preset-1-weight);
-  padding: var(--space-200) 0;
+  padding-bottom: var(--space-200);
   text-align: center;
 }
 
