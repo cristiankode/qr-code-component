@@ -71,21 +71,21 @@ body {
 }
 
 .card h1 {
-    font-size: var(--text-preset-1-size);
-    line-height: var(--text-preset-1-line-height);
-    letter-spacing: var(--text-preset-1-spacing);
-    font-weight: var(--text-preset-1-weight);
-    padding: var(--space-200) 0;
-    text-align: center;
+  font-size: var(--text-preset-2-size);
+  line-height: var(--text-preset-2-line-height);
+  letter-spacing: var(--text-preset-2-spacing);
+  font-weight: var(--text-preset-2-weight);
+  padding: var(--space-200) 0;
+  text-align: center;
 }
 
 .card figcaption {
-    font-size: var(--text-preset-2-size);
-    line-height: var(--text-preset-2-line-height);
-    letter-spacing: var(--text-preset-2-spacing);
-    font-weight: var(--text-preset-2-weight);
-    padding: var(--space-200) 0;
-    text-align: center;
+  font-size: var(--text-preset-1-size);
+  line-height: var(--text-preset-1-line-height);
+  letter-spacing: var(--text-preset-1-spacing);
+  font-weight: var(--text-preset-1-weight);
+  padding: var(--space-200) 0;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
