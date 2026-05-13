@@ -70,7 +70,7 @@ body {
     border-radius: var(--space-200);
 }
 
-h1 {
+.card h1 {
     font-size: var(--text-preset-1-size);
     line-height: var(--text-preset-1-line-height);
     letter-spacing: var(--text-preset-1-spacing);
@@ -79,7 +79,7 @@ h1 {
     text-align: center;
 }
 
-figcaption {
+.card figcaption {
     font-size: var(--text-preset-2-size);
     line-height: var(--text-preset-2-line-height);
     letter-spacing: var(--text-preset-2-spacing);
